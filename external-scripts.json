@@ -1,0 +1,17 @@
+[
+  "hubot-diagnostics",
+  "hubot-help",
+  "hubot-google-images",
+  "hubot-maps",
+  "hubot-redis-brain",
+  "hubot-wolfram",
+  "hubot-remind-advanced",
+  "hubot-todo",
+  "hubot-forecastio",
+  "hubot-currency",
+  "hubot-flirt",
+  "hubot-calculator",
+  "hubot-rss-reader",
+  "hubot-urban",
+  "hubot-wikipedia"
+]
