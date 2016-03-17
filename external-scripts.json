@@ -9,9 +9,9 @@
   "hubot-todo",
   "hubot-forecastio",
   "hubot-currency",
-  "hubot-flirt",
   "hubot-calculator",
   "hubot-rss-reader",
   "hubot-urban",
-  "hubot-wikipedia"
+  "hubot-wikipedia",
+  "webby-grove-door"
 ]

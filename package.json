@@ -1,16 +1,14 @@
 {
   "name": "huhu",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "author": "Fred Lin <gasolin@gmail.com>",
   "description": "A simple helpful robot for me",
   "dependencies": {
-    "hubot": "^2.17.0",
+    "webbybot": "^0.1.5",
     "hubot-calculator": "^0.4.0",
-    "hubot-conversation": "^1.0.3",
     "hubot-currency": "^1.0.1",
     "hubot-diagnostics": "0.0.1",
-    "hubot-flirt": "^1.0.1",
     "hubot-forecastio": "^1.1.2",
     "hubot-google-images": "^0.2.3",
     "hubot-help": "^0.1.2",
